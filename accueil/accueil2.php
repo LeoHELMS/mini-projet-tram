@@ -1,4 +1,4 @@
-<?php include("../connexion.html"); ?>
+<?php include("../header.html"); ?>
 
 <br/><br/>
 <img src="/accueil/tram.png" style="height:200px; width: 300px; margin-left: 25px;">
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<?php include("../fin.html"); ?>
+<?php include("../footer.html"); ?>
 
 </body>
 </html>
