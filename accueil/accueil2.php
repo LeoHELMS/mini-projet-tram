@@ -8,7 +8,7 @@
 </a><br/>
 <br/>
 
-<a href="../site_entier.zip">télécharger le site entier (pour pouvoir voir le PHP)</a>
+<a href="https://github.com/LeoHELMS/mini-projet-tram.git">voir le code source du site (pour &eacute;tudier le PHP)</a>
 
 
 <br/><br/>
