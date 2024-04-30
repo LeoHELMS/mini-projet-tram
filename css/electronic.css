@@ -1,0 +1,28 @@
+body
+{
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+
+td
+{
+    padding-right: 50px;
+}
+
+a:visited, a:link, a:hover
+{
+    color: white;
+}
+
+/*ici, le a:focus produit presque le même effet que le a:active, donc il vaux mieux les mettres ensembles.*/
+a:focus, a:active
+{
+    color: green;
+}
+
+img
+{
+    margin-bottom: 50px;
+}

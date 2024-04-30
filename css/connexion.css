@@ -1,0 +1,20 @@
+body
+{
+    background-color: gray;
+    color: white;
+}
+
+tr
+{
+    text-align: left;
+}
+
+a:visited, a:link, a:hover
+{
+    color: white;
+}
+
+a:focus, a:active
+{
+    color: green;
+}
