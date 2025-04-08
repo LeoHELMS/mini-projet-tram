@@ -7,17 +7,14 @@ if(!isset($_SESSION['_login'])&& !isset($_SESSION['_pass']))
 ?>
 <!DOCTYPE html>
 <html>
-<head>
-
-<link rel='icon' href='../CTS.png'/>
-<title>CTS - Accueil</title>
-
-<link rel='stylesheet' type='text/css' href='../css/accueil.css'>
-
-</head>
-<body>
-	<p><b style="color:red">espace sécurisé</b><br/>Connectez-vous pour accéder à cette page</p>
-	 <?php include("../accueil/accueil2.php");
+	<head>
+		<link rel='icon' href='../CTS.png'/>
+		<title>CTS - Accueil</title>
+		<link rel='stylesheet' type='text/css' href='../css/accueil.css'>
+	</head>
+	<body>
+		<p><b style="color:red">espace sécurisé</b><br/>Connectez-vous pour accéder à cette page</p>
+ 	<?php include("../accueil/accueil2.php");
 	exit();
 }
 else
